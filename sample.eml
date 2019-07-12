@@ -1,0 +1,92 @@
+Delivered-To: contact@builtwithscience.com
+Received-SPF: none (zoho.com: 184.154.177.53 is neither permitted nor denied by domain of us111.siteground.us) client-ip=184.154.177.53; envelope-from=builtwi6@us111.siteground.us; helo=delivery.mailspamprotection.com;
+Authentication-Results: mx.zohomail.com;
+	dkim=pass;
+	spf=none (zoho.com: 184.154.177.53 is neither permitted nor denied by domain of us111.siteground.us)  smtp.mailfrom=builtwi6@us111.siteground.us
+Return-Path: <builtwi6@us111.siteground.us>
+Received: from delivery.mailspamprotection.com (delivery.mailspamprotection.com [184.154.177.53]) by mx.zohomail.com
+	with SMTPS id 1530461137559323.9846446514249; Sun, 1 Jul 2018 09:05:37 -0700 (PDT)
+Received: from ns1.us111.siteground.us ([37.60.244.212] helo=us111.siteground.us)
+	by se7.mailspamprotection.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <builtwi6@us111.siteground.us>)
+	id 1fZeqx-0001nj-Gy
+	for contact@builtwithscience.com; Sun, 01 Jul 2018 11:05:32 -0500
+Received: from [127.0.0.1] (port=46414 helo=us111.siteground.us)
+	by us111.siteground.us with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <builtwi6@us111.siteground.us>)
+	id 1fZeqx-00022A-CU
+	for contact@builtwithscience.com; Sun, 01 Jul 2018 11:05:31 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=builtwithscience.com; s=dkim; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=Zj8bN1gp+mwhUodOept5Fr21YplaRT4xEYZZf+uppss=; b=lyM+k4k+Vlo/uDs1VhklCLoYO3
+	uVzDMRgDqF0Ku4NGwgspc6kq2xQfZAe62flcSAR1XBjHJ4r6+GIwobBhM7au74HbmW9a3hfF18j5n
+	751Xid7x004WwewQM9TxDjNVuJKrJqOJCL96+I3l8ccrfkkwpNCykOD4CJnEPCpbNoCY=;
+To: contact@builtwithscience.com
+Subject: New message from "Built with Science"
+X-PHP-Originating-Script: 534:class-phpmailer.php
+Date: Sun, 1 Jul 2018 16:05:31 +0000
+From: Built with Science <mailgun@builtwithscience.com>
+Message-ID:<ca8c0f5a75aa3055c9ef09d003812786@builtwithscience.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - us111.siteground.us
+X-AntiAbuse: Original Domain - builtwithscience.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - us111.siteground.us
+X-Get-Message-Sender-Via: us111.siteground.us: none
+X-Originating-IP: 37.60.244.212
+X-SpamExperts-Domain: us111.siteground.us
+X-SpamExperts-Username: 37.60.244.212
+Authentication-Results: mailspamprotection.com; auth=pass smtp.auth=37.60.244.212@us111.siteground.us
+X-SpamExperts-Outgoing-Class: unsure
+X-SpamExperts-Outgoing-Evidence: Combined (0.41)
+X-Recommended-Action: accept
+X-Filter-ID: EX5BVjFpneJeBchSMxfU5mQECexmUNCBVS6DIRG5zkZ602E9L7XzfQH6nu9C/Fh9KJzpNe6xgvOx
+ q3u0UDjvO93nwApmXPoj5MAfWrdB1duq97O7dYEZPwS3Kk4qcOUcnuCg2uR9CQudws7HWSvTBQXA
+ QtTkBs+cJWszTuTVnkdIeZjZv1oz6oWKgngYgisMFP/fMVP0svmpWqdKA4I3Nw9kOx+VLLpey8QR
+ GzkK7zVG8gcNpZhZE0jwK+nd8LL4pOzMSvO3OOE8pw03LoKTP7pBAxR1M9ktf5aSYn3baCfVzPEq
+ DILMAa0/AwU6ZTYeCdOOuHrTVxzlPuSm9ELht2wEzz/Xni1guZA8Hje3K7F+pbAPTBhg6T5KsNuB
+ bzh0S89MkUR8YzKJ5qROZF+Qqlf8sZzUcaTKB744fVZ7GANraYGy+nbb4HZwQJOl0BfTbp/rqzB7
+ 1b9xlGb1dlQfhv2HO9wL1YdN0vbLSQ8oWxB4DqxxlnCnOQKjhagEKuLSJaawUHIGhcC4JkTKDn0s
+ z/2tQmsRtUDzgFlWxwxNelvDI+vpiCaq5+rUSfpYsucAgeVNrQUbSKPsA6VNiSUzglS9UVYAijd/
+ cRcSN0jkAhqedeb3lrS9G2Mff9TAU6WtX6JRlHBhjYJToJFnA8iSBS30uFvNcfq60MVRckFH1CsW
+ yy9t9E2szbe2C5zGjZKNIPXYeh/m65V12TXhd9AiRgE0QVarBTs41menXr2i9UGDROTxxq7ZelKw
+ JRB+AU8TT/kDaNw12NXbcUc/HkWbnuyMuo8rs9UwjxZ/foLmEUZK6D1Rg2FstB1wFzEgdXU9yA98
+ GwffH0KHR2IQbAA2jSPg3D7oZLfePiyf2550xM6XuKseNGl/JHl91aO62c0v+txd5/AskF77uIO5
+ 1k8qY6YsCbEgsYYr3JutzyOJnJxlX3gAVVMnlJVXGjVNSwBCp6GtZJ6dr9gxS7FPiPdgGfdjzQ6Y
+ C7Heg3Xf7O1TOd4PNegZykoNsswiML5zOJQ2CmLr4kuQ8jlcCbZqykDugkHO7dMkp4R/pVYALJ5w
+ kpXshdxVrtQXawD/BrAtjjDJctgzcDoFd+96Xw4QUNtTnbwTKPkeWfLHwl12UYJRsozA2CvrLnhN
+ qm+z9TZHVXVR5vxpAxkYYMsf5UdrMvo39CVZ8XLucHcUUyZyL6r5b7jeNHk15VolAGHS5rCXQKDy
+ lc7SA1fe5LhvjB1n5rzOfh537ywn/93RJzX6j2O8Qd9gNciLf65FqQJYRz15GLu71x3llVF7RCAK
+ q/b9MUqpm1rdbX1nHciiDi3qhvF8aeY=
+X-Report-Abuse-To: spam@quarantine1.mailspamprotection.com
+X-ZohoMail-DKIM: pass (identity @builtwithscience.com)
+X-ZohoMail: RDKM_0  RSF_4  Z_660299728 SPT_1 Z_660299727 SPT_1 SLF_D S_166
+X-ZohoMail-Status: 1
+
+
+Name: Glenn Cudnik<br>Email: GlennvCudnik91@Gmail.com<br>Gender: Male<br>Ag=
+e: 27<br>Weight: <br>Bodyfat % (estimated): 18<br>Can you briefly describe =
+your specific fitness goals at the moment?: I want a respectable Aesthetic =
+physique like yours<br>Are you currently training consistently?: Yes<br>Wha=
+t does your current training regimen look like?: Training 5 days a week pus=
+h,pull,leg program<br>How many years have you been training for?: <br>Do yo=
+u have any specific food restrictions (e.g. food allergies, vegan)?: No<br>=
+Do you currently have any health problems or injuries (including past injur=
+ies) that I should be aware of?: No<br>Have you ever been part of any type =
+of online coaching program? : No<br>What makes you want to work with me as =
+opposed to other trainers?: I like your approach to fitness from watching y=
+ou on YouTube <br>Are you 100% willing to give your all to this coaching pr=
+ogram?: HELL YEAH<br><br>---<br><br>Date: July 1, 2018<br>Time: 4:05 pm<br>=
+Page URL: https://builtwithscience.com/coaching/<br>User Agent: Mozilla/5.0=
+ (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko)=
+ Version/8.0 Mobile/12H321 Safari/600.1.4<br>Remote IP: 72.188.213.101<br>P=
+owered by: Elementor<br>
