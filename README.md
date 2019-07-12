@@ -1,5 +1,5 @@
 # OutlookEmialFileProcessing
 OutlookEmialFileProcessing
 
-Remaing: 
+Remaining: 
   Email Attachmnet Processing
